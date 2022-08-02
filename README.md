@@ -2,18 +2,21 @@
 
 안녕하세요.
 
-- 산업 현장에서 Node.js, Vue.js, Java, Spring, Android Native, 풀스택 개발 경험이 있습니다.
+- 산업 현장에서 React, Next.js, Vue.js, Angular,  Svelte, React Native, Android Native, Node.js, Java, Spring,  풀스택 개발 경험이 있습니다.
 - 최근에는 ES6 이후의 모던 자바스크립트를 활용해 프론트엔드 개발을 해왔습니다.
-- SI 프로젝트에서 금융, 커머스 분야의 업무 개발을 주로 해왔습니다.
+- 커머스, 금융 분야의 개발을 주로 해왔습니다.
 - 새로운 기술이나 정보를 습득해 팀원들에게 전파하는 것을 좋아합니다.
-- 프론트엔드에서의 TDD에 관심을 가지고 React를 기반으로 공부하고 있습니다.
+- 애자일과 좋은 팀문화에 관심이 많으며, 회사에서 팀원들과 북클럽, 같이 읽기 클럽을 만들어 운영했습니다.
+- 프론트엔드에서의 TDD에 관심을 가지고 업무에 적용하려 노력합니다.
+- Jest, Mocha를 통한 단위 테스트, CodeceptJS, Playwright, Cypress 를 통한 E2E 테스트 작성 경험이 있습니다.
 - 함수형 프로그램에 관심이 많습니다.
 - 읽기 쉬운 코드가 좋은 코드라는 개발 철학을 가지고 유지 보수하기 쉬운 코드를 지향합니다.
+    
 
 ## 👩‍💻Career (총 5년 3개월)
 
 ---
-`2022.02 ~ `  골라라
+`2022.02 ~ 2022.07`  골라라
 
 `2021.06 ~ 2022.02`  제이엘케이
 
@@ -22,6 +25,23 @@
 **👩‍💻 주요 프로젝트**
 
 ---
+**[골라라] Conping 웹앱 개발**
+
+`2022.06 ~ 2022.07` 
+
+- 골라라 TV 콘텐츠 e-commerce 통합 플랫폼 “Conping” 신규 개발
+- Flutter 웹뷰 형태의 앱에서 웹 개발 담당
+- presentational container pattern 구조 설계를 통해 관심사 분리
+- ESLint, Jest 프로젝트 초기 설정
+- 개발환경 : Svelte, Typescript, scss, GraphQL, ESLint, Jest, SonarCloud
+
+**[골라라] 골라라 서비스 운영**
+
+`2022.02 ~ 2022.07`
+
+- 글로벌 패션 도매 플랫폼 “gollala” 서비스 운영
+- 개발환경 : Micro Front End, Angular, NextJs, Recoil, TailwindCSS, TypeScript
+
 **[HelloHealth] 앱, 프론트 개발**
 
 `2021.12 ~ 2022.02`
@@ -113,8 +133,8 @@
 
 **백엔드**
 
-`Java` `Spring` `Node.js` 
+`Java` `Spring` `Node.js` `Oracle` `MySQL` `DynamoDB` 
 
 **프론트엔드**
 
-`Javascript` `Vue.js` `Ajax` `Jquery` `React` `HTML5` `CSS3` `Sass`
+`Javascript` `React` `Next.js` `Vue.js` `Svelte` `Angular` `Material-UI` `Emotion` `Sass` `TailWindCSS` `Redux` `Redux Saga` `Redux Toolkit` `Redux Thunk` `React Query` `Recoil`  `Jquery`  `HTML5` `CSS3` `Sass`
