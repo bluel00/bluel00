@@ -28,6 +28,7 @@
 **[골라라] Conping 웹앱 개발**
 
 `2022.06 ~ 2022.07` 
+(repo: https://github.com/odj0220/web-conping)
 
 - 골라라 TV 콘텐츠 e-commerce 통합 플랫폼 “Conping” 신규 개발 (mvp: https://conping-yqoln5urha-an.a.run.app/)
 - Flutter 웹뷰 형태의 앱에서 웹 개발 담당
