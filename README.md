@@ -29,7 +29,7 @@
 
 `2022.06 ~ 2022.07` 
 
-- 골라라 TV 콘텐츠 e-commerce 통합 플랫폼 “Conping” 신규 개발
+- 골라라 TV 콘텐츠 e-commerce 통합 플랫폼 “Conping” 신규 개발 (mvp: https://conping-yqoln5urha-an.a.run.app/)
 - Flutter 웹뷰 형태의 앱에서 웹 개발 담당
 - presentational container pattern 구조 설계를 통해 관심사 분리
 - ESLint, Jest 프로젝트 초기 설정
